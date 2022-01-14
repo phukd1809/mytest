@@ -1,0 +1,12 @@
+.linkItem
+{
+    display: inline-block;
+    margin: 0 16px;
+}
+.linkItem a{
+    display: inline;
+    font-size: 14px;
+    color: #fff;
+    text-decoration: none;
+    line-height: 50px;
+}

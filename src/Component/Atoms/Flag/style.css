@@ -1,0 +1,10 @@
+.flag{
+    display: inline-block;
+    margin: 0 4px;
+   
+}
+.flag img{
+    width: 30px;
+    border-radius: 3px;
+    
+}

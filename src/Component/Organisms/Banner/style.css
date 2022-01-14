@@ -1,0 +1,13 @@
+.bgr img{
+    width: 100%;
+    position: relative;
+    height: 961px;
+}
+.banner-content
+{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
